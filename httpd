@@ -1,4 +1,6 @@
 Status code
 2xx: Success
 3xx: redirection
+4xx: client error
+5xx: server error code
 https://httpstatuses.com/
